@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://36.33.24.12:8091/Fesco.ipa</string>
+					<string>60.166.24.30:8888/Fesco.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Fesco 安徽公司ERP系统</string>
+				<string>FESCO员工信息查询系统</string>
 			</dict>
 		</dict>
 	</array>
